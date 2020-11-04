@@ -2,7 +2,7 @@
 title: 树上的世界
 SEOTitle: 树上的世界 | The World On Tree
 header-img: img/home-bg.jpg
-email: pangcq699885@gmail.com
+email: pangcq699885@126.com
 description: "关于程序与设计、黑客与画家 | 这里是 @chase 侨 的个人博客，与你一起发现更大的世界。"
 keyword: "侨, Chase春侨, @chase, 春侨的博客, Chase Blog, 博客, 个人网站, 互联网, Web, Java, 前端, 设计"
 url: "http://blog.pangcq.cn"              # your host, for absolute URL
@@ -13,10 +13,8 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:     chasepro
-zhihu_username:     chasepro
-github_username:    chasepro
-twitter_username:   chasepro
+zhihu_username:     pang-chun-qiao-68
+github_username:    chasepang
 #facebook_username:  chasepro
 #linkedin_username:  firstname-lastname-idxxxx
 
@@ -106,10 +104,10 @@ friends: [
     #     title: "Su",
     #     href: "http://su.gallery/"
     # },{
-        title: "乱序",
-        href: "http://mida.re/"
-    },{
-        title: "Sherry Wu",
-        href: "https://xuechundesign.github.io"
-    }
+#        title: "乱序",
+#        href: "http://mida.re/"
+#    },{
+#        title: "Sherry Wu",
+#        href: "https://xuechundesign.github.io"
+#    }
 ]
