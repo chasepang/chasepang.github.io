@@ -1,11 +1,11 @@
 # Site settings
-title: ChasePang Blog
-SEOTitle: 侨的博客 | Chase Blog
+title: 树上的世界
+SEOTitle: 树上的世界 | The World On Tree
 header-img: img/home-bg.jpg
 email: pangcq699885@gmail.com
 description: "关于程序与设计、黑客与画家 | 这里是 @chase 侨 的个人博客，与你一起发现更大的世界。"
 keyword: "侨, Chase春侨, @chase, 春侨的博客, Chase Blog, 博客, 个人网站, 互联网, Web, Java, 前端, 设计"
-url: "https://pangcq.cn"              # your host, for absolute URL
+url: "http://blog.pangcq.cn"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -111,23 +111,5 @@ friends: [
     },{
         title: "Sherry Wu",
         href: "https://xuechundesign.github.io"
-    },{
-        title: "Luke 的自留地",
-        href: "http://hmqk1995.github.io"
-    },{
-        title: "Ebn's Blog",
-        href: "http://ebnbin.com/"
-    },{
-        title: "SmdCn's Blog",
-        href: "http://blog.smdcn.net"
-    },{
-        title: "JiyinYiyong",
-        href: "http://tiye.me/"
-    },{
-        title: "David's Game",
-        href: "https://www.ruoyaowu.com/"
-    },{
-        title: "DHong Say",
-        href: "http://dhong.co"
     }
 ]
