@@ -33,16 +33,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4d8e43bb-3c9c-4515-855f-602031584f05" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/img/icon_wechat.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/default.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/default.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/keynote.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/keynote.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/post.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/post.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-06-30-dreamer.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/data_rep/2020-06-19-data-rep-int.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/data_rep/2020-06-21-data-rep-float.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/data_rep/2020-06-21-data-rep-todo.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,7 +93,7 @@
       <updated>1604458548989</updated>
       <workItem from="1604458550093" duration="223000" />
       <workItem from="1604475699165" duration="180000" />
-      <workItem from="1604475903525" duration="2932000" />
+      <workItem from="1604475903525" duration="3888000" />
     </task>
     <servers />
   </component>
