@@ -1,3 +1,3 @@
 > Your time is limited, so don’t waste it living someone else’s life. 
 
-Hi, I am pangcq, a programmer.
+Hi, I am pangcq, a Java programmer.
